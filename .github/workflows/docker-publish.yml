@@ -1,4 +1,4 @@
-name: Publish Signed Container Image
+name: Publish Cosign Signed Container Image
 
 on: push
 
